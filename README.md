@@ -1,6 +1,6 @@
-# 🏥 Healthcare Web Application
+# 🏥 Healthcare ERP
 
-A comprehensive **healthcare web application** built using **Angular** for the frontend and **Node.js** for the backend. The platform is designed to streamline healthcare services with features such as patient management, medicine tracking, appointment scheduling, and secure data handling.
+A comprehensive **healthcare ERP** built using **Angular 8** for the frontend and **Node.js** for the backend. The platform is designed to streamline healthcare services with features such as patient management, medicine tracking, appointment scheduling, and secure data handling.
 
 PharmaCare aims to enhance efficiency and accessibility for healthcare providers and patients by offering an intuitive and secure platform for managing healthcare tasks.
 
