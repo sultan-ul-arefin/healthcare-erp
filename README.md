@@ -1,4 +1,4 @@
-# 🏥 Pharma Care - Healthcare Web Application
+# 🏥 Healthcare Web Application
 
 A comprehensive **healthcare web application** built using **Angular** for the frontend and **Node.js** for the backend. The platform is designed to streamline healthcare services with features such as patient management, medicine tracking, appointment scheduling, and secure data handling.
 
